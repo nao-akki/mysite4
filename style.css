@@ -5,14 +5,14 @@ body {
 }
 
 header{
-  background-image: url(DSC00494.JPG);
+  background-image: url(resize_DSC00494.JPG);
   text-align: center;
   padding: 32px 0;
   color: white;
 }
 
 header img {
-  border-radius: 50%;
+  border-radius: 20%;
 }
 h1 {
   margin: 16px 0 0;
